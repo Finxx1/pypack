@@ -1,0 +1,5 @@
+Name pypack
+Lang c
+
+SrcDir src
+Bin build/example
