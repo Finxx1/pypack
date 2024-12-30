@@ -1,0 +1,2 @@
+# pypack
+Bad Python packager.
